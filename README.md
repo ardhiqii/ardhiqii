@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Aufa 👋
+
+Software engineer passionate about full-stack development. Focused on frontend while continuously learning backend to understand how systems work end-to-end. Curious about system design, cloud, and scalable architectures.
+
+![https://www.linkedin.com/in/ardhiqi/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![ardhiqi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <!--
 **ardhiqii/ardhiqii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
